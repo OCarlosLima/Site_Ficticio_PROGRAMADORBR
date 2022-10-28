@@ -1,0 +1,23 @@
+Maior barbearia de referencia de todo Torquato Neto.
+Oferecemos mais de x cortes, com cabelo e barba, para todos os gostos.
+Possuimos uma sala destinada a convidados, com direito a futebol, sinuca, bebidas e outros consumiveis.
+
+Surfista
+Moicano
+Degradê
+Social
+Militar
+Cacheado
+
+barbas:
+
+Tradicional
+Cavanhaque
+Degradê
+
+Avenida Vereador Joaquim dos Velhos
+Numero 234
+Portal da Alegria
+Teresina - Piaui
+Quadra 34
+Lote 37
