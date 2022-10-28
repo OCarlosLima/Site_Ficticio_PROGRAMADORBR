@@ -56,8 +56,7 @@ h1 {
 .content_1 {
     display: flex;
     align-items: center;
-    width: 100vw;
-    height: 70vh;
+    height: 540px;
     background-color: #FFF;
 }
 
@@ -138,7 +137,7 @@ li {
 
 .footer {
     background-color: #222;
-    height: 45vh;
+    height: 280px;
     color: #FFF;
     padding: 0 20px;
 }
@@ -178,4 +177,10 @@ li {
         margin-bottom: 50px;
     }
 
+}
+
+@media screen and (max-width: 300px) {
+    .content_1 p {
+        padding: 10px;
+    }
 }
